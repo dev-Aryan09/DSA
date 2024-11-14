@@ -171,5 +171,61 @@ int main()
     //     cout << endl;
     //     i = i + 1;
     // }
+
+    // patern-10
+
+    // int row = 1;
+    // while (row <= n)
+    // {
+
+    //     int col = 1;
+    //     while (col <= n)
+    //     {
+    //         char ch = 'A' + row - 1;
+    //         cout << ch << " ";
+    //         col = col + 1;
+    //     }
+    //     cout << endl;
+    //     row = row + 1;
+    // }
+
+    // pattern-11
+
+    // int i = 1;
+    // while (i <= n)
+    // {
+
+    //     int j = 1;
+    //     while (j <= n)
+    //     {
+    //         char ch = 'A' + j -1;
+    //         cout << ch << " ";
+    //         j = j + 1;
+    //     }
+    //     cout << endl;
+    //     i = i + 1;
+    // }
+
+    // pattern-12
+
+    // int i = 1;
+    // char ch = 'A';
+
+    // while (i <= n)
+    // {
+
+    //     int j = 1;
+    //     while (j <= n)
+    //     {
+    //         cout << ch << " ";
+    //         ch = ch + 1;
+    //         j = j + 1;
+    //     }
+    //     cout << endl;
+    //     i = i + 1;
+    // }
+
+    // pattern-13
+
     
 }
